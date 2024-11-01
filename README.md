@@ -36,7 +36,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Contact
 For any inquiries, please reach out to:
 
-Your Name: nby.nithin@gmail.com
+Name: nby.nithin@gmail.com
+
 GitHub: nit-codes
 
 ## Acknowledgments
